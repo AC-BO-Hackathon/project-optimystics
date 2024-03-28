@@ -11,10 +11,10 @@ Hydrogels are hydrophilic crosslinked polymer networks with applications in cell
 https://youtu.be/Qbvq7uolQr8?si=ywHLhoCG1i3bCDJO
 
 ## Other Files 
-Video Script.docx - Script for the youtube video
-PROJECT_POSTER.png - Poster for the project
-hydrogel background.docx - Background research
-BO_hackathon_example.py - Example code for integration
+Video Script.docx - Script for the youtube video <br>
+PROJECT_POSTER.png - Poster for the project <br>
+hydrogel background.docx - Background research <br>
+BO_hackathon_example.py - Example code for integration <br>
 Presentation_PDF.pdf - The presentation slides (plus some extra) for the video
 
 
